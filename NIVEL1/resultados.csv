@@ -1,0 +1,102 @@
+descripcion,id,pregunta
+"
+                I have a 2d array with n elements, like this (maximum of 10 000 elements):
+[[ 32  25  50  69  95]
+ [ 30  57  71  50  82]
+ [ 49  39  48  92  52]
+ [ 95  84  17  21  67]
+ [100  37  56  68  24]
+ [ 11  63  ...
+            ",[0],Find groups of k elements in a numpy 2D array allowing a max Manhattan distance between all the elements in the group
+"
+                Which method do you think is most preferred?
+Any help please thanks.
+            ",[1],"When writing Javascript, is it better to use variables based off of classes or id's?"
+"
+                Silly newbe here.
+So I'm banging my head on this:
+Cant quite figure out the parameterized query and if it's properly formatted.
+import sqlite3
+
+def readSqliteTable():
+    try:
+        sqliteConnection ...
+            ",[2],SQlLite in Python search between dates
+"
+                I'm creating a CRUD application in Django, and one of the fields in the data requires the user to enter a datetime input.  This was working smoothly until this evening when I started to work on it ...
+            ",[3],Enter a valid date/time - Django Datetime Picker
+"
+                So my code here is to first create an array of size n(defined by user), and generate random numbers within a limit m(also defined by the user) and with those random numbers generated, the code should ...
+            ",[4],Is there a way to make this while condition for palindrome scan my array class?
+"
+                I'm working with two classes, a Library class and a libraryHub class. Libraries can be initialized with multiple dependencies, which are other Library instances. There is also an add_dependancy method ...
+            ",[5],Which function should I use to abstract correctly within a LibraryHub class in Python?
+"
+                I'm new to react hooks and have run into a situation which I solved, but not sure if this is a proper implementation of useEffect. I have a form with some fields (answer, question etc) with some ...
+            ",[6],React useEffect dependency array and implementation
+"
+                I am following this tutorial 
+
+https://www.tensorflow.org/federated/tutorials/building_your_own_federated_learning_algorithm
+here we perform training on federated train data
+for round in range(15):
+   ...
+            ",[7],Training tff metrics on federated training data of clients
+"
+                How can I make MUI Textfield select with React Hook Form? Onclick nothing happens, what's wrong with code?
+Inside a form component
+  <Controller
+    render={({ field }) => {
+      return <...
+            ",[8],How to make MUI TextField select with React Hook Form?
+"
+                I have a button that when clicked gives the state 'names' a value, then this names value is used in a similar fetch function to set the state 'sentence'. Currently on the button click, the state ...
+            ",[9],Using a button to fetch a response that is then used in another fetch function [duplicate]
+"
+                I have multiple dataframes that look like this:
+>df1
+
+NAME    
+Josh
+Sarah
+Sammy
+Jake
+
+>df2
+
+NAME    
+Josh
+Sarah
+Sammy
+Mark
+
+>df3
+
+NAME    
+Josh
+Michael
+Mike
+Adam 
+
+>df4
+NAME
+Josh
+Michael
+...
+            ",[10],Compute Pairwise Intersections Between Multiple Vectors
+"
+                I'm trying to implement an AVL tree for the first time, and apparently it worked, but I need to change the way of marking the height of the tree, the root node is getting the highest height, but I ...
+            ",[11],reverte height of avl tree
+"
+                I have an Ansible task where I navigate to a YAML variable file in GitHub, download the file, and add the variables as Ansible Facts where they're later used.
+My YAML file looks like:
+---
+foo: bar
+...
+            ",[12],What is the best way to dynamically add variables as Ansible Facts?
+"
+                I'm using react-native-pdf in my React Native app, and it says you should install react-native-pdf and react-native-blob-util. Why would it ask us to install react-native-blob-util rather than its ...
+            ",[13],Why would a react native package ask you to install another package separately?
+"
+                Se por exemplo eu adicionar uma linha a+, como por exemplo printf(""player 1""); o código se encerra com exit 0, não sei exatamente o porque, ele sai da função sendo que na ""teoria"" ...
+            ",[14],"JOGO BATALHA NAVAL o jogo está ""finalizado"", eu não consigo adicionar uma linha a+ no código sem o codigo ser encerrado"
